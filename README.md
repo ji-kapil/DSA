@@ -81,7 +81,7 @@ Segment Tree, Fenwick Tree (for range queries)
 
 ✅ Practice Pattern
 
-Start topic → Learn theory → Solve 5-10 basic problems → Move to medium
+Start topic → Learn theory → Solve 5-10 basic problems → Move to medium 
 
 
 Arrays → Strings → Linked List → Stack  → Queue → Hashing → Trees → Heaps → Graphs → Tries →  Union Field → Dynamic Programming (Problem Solving Technique) → Competitive Programming (Problem Solving Technique - ON YOUR INTERESTED NOT MUST IMPORTANT)
