@@ -1,4 +1,4 @@
-🔁 DSA Learning Pattern (Short & Effective):
+s🔁 DSA Learning Pattern (Short & Effective):
 1. Programming Basics
 
 Learn a language: C++, Java, or Python
